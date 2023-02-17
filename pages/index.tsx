@@ -30,11 +30,7 @@ const Home: NextPage = () => {
         <Receive/>
       }
 
-
-
-  
-
-      <button className="btn btn-primary">Button</button>
+      <button className="btn btn-primary mt-10">Button</button>
 
     </div>
   )
